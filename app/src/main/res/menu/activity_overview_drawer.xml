@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+        <item
+            android:id="@+id/nav_overwiew"
+            android:title="Overwiew" />
+        <item
+            android:id="@+id/nav_perApp"
+            android:title="Per App" />
+        <item
+            android:id="@+id/nav_history"
+            android:title="History" />
+        <item
+            android:id="@+id/nav_alerts"
+                android:title="Alerts" />
+        <item
+            android:id="@+id/nav_cyclePeriod"
+            android:title="Cycle Period" />
+        <item
+            android:id="@+id/nav_settings"
+            android:title="Settings" />
+        <item
+            android:id="@+id/nav_stdTime"
+            android:title="STD Times" />
+        <item
+            android:id="@+id/nav_about"
+            android:title="About" />
+
+
+</menu>
